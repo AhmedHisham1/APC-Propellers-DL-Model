@@ -12,7 +12,7 @@ Link: https://www.apcprop.com/technical-information/file-downloads/
 - *'Data_Extraction.py'*: python script for extracting a cleaner data from the original data and store it in the 'all_props.csv' file.  
 - *'Data Cleaning.ipynb'*: ipython notebook for additional cleaning of the 'all_props.csv' file by removing unwanted columns and saving to the 'all_props_cleaned_petite.csv' file.
 - *'Fitting.ipynb'*: ipython notebook that contains the creation and training of the first deep learning model and saving the model into the 'Fitting_model.h5' file.
-- *'Fitting.ipynb'*: ipython notebook that contains the creation and training of the second deep learning model and saving the model into the 'Fitting_2_model.h5' file.
+- *'Fitting_2.ipynb'*: ipython notebook that contains the creation and training of the second deep learning model and saving the model into the 'Fitting_2_model.h5' file.
 - ***'Model UI.ipynb'***: ipython notebook. **the user-interface of the two models**
 
 #### Usage:
