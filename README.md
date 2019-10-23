@@ -13,7 +13,8 @@ Link: https://www.apcprop.com/technical-information/file-downloads/
 - *'Data Cleaning.ipynb'*: ipython notebook for additional cleaning of the 'all_props.csv' file by removing unwanted columns and saving to the 'all_props_cleaned_petite.csv' file.
 - *'Fitting.ipynb'*: ipython notebook that contains the creation and training of the first deep learning model and saving the model into the 'Fitting_model.h5' file.
 - *'Fitting_2.ipynb'*: ipython notebook that contains the creation and training of the second deep learning model and saving the model into the 'Fitting_2_model.h5' file.
-- ***'Model UI.ipynb'***: ipython notebook. **the user-interface of the two models**
+- *'Fitting_3.ipynb'*: ipython notebook that contains the creation and training of the third deep learning model and saving the model into the 'Fitting_3_model.h5' file.
+- ***'Model UI.ipynb'***: ipython notebook. **the user-interface of the models**
 
 #### Usage:
 The main interface with the two created models should be done through the "**Model UI**" notebook.  
